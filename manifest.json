@@ -1,0 +1,16 @@
+{
+    "manifest_version": "2",
+    "description": "Making Scheduling Easier",
+    "version": "1.0",
+
+    "icons": {
+        "128": "icon.png"
+    },
+
+    "browser_action": {
+        "default_icon": "",
+        "default_popup": "popup.html"
+    },
+
+    "permissions" : ["activeTab", "http://*/*, https://*/*"]
+}
