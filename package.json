@@ -1,0 +1,27 @@
+{
+  "name": "dateable",
+  "version": "1.0.0",
+  "description": "A Chrome extension to help you plan your life",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josiahkc/dateable.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josiahkc/dateable/issues"
+  },
+  "homepage": "https://github.com/josiahkc/dateable#readme",
+  "devDependencies": {
+    "webpack": "^5.45.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
